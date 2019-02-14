@@ -1,0 +1,63 @@
+.feature-card {
+    width: 120px;
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    margin-left: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 12px;
+  }
+  .features {
+    display: flex;
+    flex-wrap: wrap;
+    width: 420px;
+    height: 400px;
+    margin-top: -30px;
+  }
+.feature-card:nth-child(2),
+.feature-card:nth-child(4) {
+  position: relative;
+  top: -20px;
+}
+  .feature-name {
+    color: #00b39b;
+    font-size: 12px;
+  }
+  .feature-description {
+    font-size: 12px;
+    color: #747474;
+  }
+  
+  .feature-section {
+    overflow: hidden;
+    display: flex;
+    background-color: #d8f6f5;
+    justify-content: center;
+    padding: 50px 0px;
+    height: 300px;
+    border: solid 2px red;
+  }
+  .feature-intro-title {
+    color: #00b39b;
+    font-size: 20px;
+
+  }
+  .feature-intro-text {
+    color: #747474;
+    font-size: 16px;
+  }
+  .feature-intro {
+    width: 300px;
+    padding: 0px;
+    margin-right: 50px;
+  }
+.feature-intro-image{
+    height: 300px;
+    width: 300px;
+    
+
+}

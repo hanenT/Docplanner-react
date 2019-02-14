@@ -1,0 +1,27 @@
+.main-nav{
+    display: flex;
+    position: sticky;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 0px;
+    border: 2px solid red;
+    height: 50px;
+}
+.menu{
+    width: 600px;
+    color: #ababab;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    
+}
+.logo-doc{
+   
+}
+.button-menu{
+    background-color: white;
+    color: #ababab;
+    border: 2px solid white;
+    font-size: 12px;
+}

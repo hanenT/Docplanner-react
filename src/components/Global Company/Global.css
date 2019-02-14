@@ -1,0 +1,29 @@
+.brands-section {
+    display: flex;
+    justify-content: center;
+    padding: 60px 0px;
+  }
+  .brands-title {
+    color: #00b39b;
+    width: 15%;
+    font-size: 12px;
+    height: 150px;
+    margin-top: -20px;
+
+  }
+  .brand-item {
+    padding: 20px;
+    font-weight: bold;
+    color: #bdbdbd;
+  }
+  .brands {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 100px;
+    margin-left: 70px;
+    font-size: 12px;
+    color: #bdbdbd;
+  }
+
+  

@@ -1,0 +1,21 @@
+.logo-intro{
+    color: #00b39b;
+    position: relative;
+    text-align: center;
+    margin-left: 0px;
+}
+.intro-paragraph{
+    display: flex;
+    justify-content: space-around;
+    color: #747474;
+    width: 80%;
+    height: 200px;
+    line-height: 1.75;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+.intro{
+    width: 100%;
+    margin-top: 50px;
+}

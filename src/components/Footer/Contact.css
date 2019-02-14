@@ -1,0 +1,11 @@
+.bottom-footer{
+    color: #747474;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    margin: 40px;
+    padding: 20px;
+}
+.cities-links{
+    text-decoration: none;
+}

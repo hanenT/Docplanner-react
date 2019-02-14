@@ -1,0 +1,49 @@
+.office-description {
+    width: 300px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+  }
+  .office-name {
+    color: #747474;
+    font-size: 14px;
+  }
+  .office-btn {
+    background-color: #1662c6;
+    color: white;
+    height: 35px;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+  .offices {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    border: solid 2px green;
+  }
+  .offices-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .office-card {
+    margin: 10px;
+    border: solid 2px yellow;
+    margin-left: 30px;
+  }
+  .offices-intro {
+    width: 450px;
+    text-align: center;
+  }
+  
+  a:visited {
+    color: #bdbdbd;
+  }
+  
+  a:hover {
+    color: #00b39b;
+  }
+  

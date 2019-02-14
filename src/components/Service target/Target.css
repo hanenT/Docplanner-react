@@ -1,0 +1,35 @@
+.service-card {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    color: white;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-left: 50px;
+  }
+  .card-category {
+    font-size: 15px;
+  }
+  
+  .card-image {
+    position: absolute;
+    right: -90px;
+    bottom: 0px;
+  }
+  .services {
+    display: flex;
+    justify-content: center;
+  }
+  .service-title {
+    font-size: 25px;
+  }
+  
+  .service-button {
+    padding: 10px;
+    color: black;
+    font-size: 12px;
+  }
+  
